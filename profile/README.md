@@ -1,7 +1,7 @@
 HWT Hash Web Token
 - working token library Hwtr https://jsr.io/@hwt/hwtr-js
 - demos https://github.com/hwt-protocol/hwt-demo
-- canonical info https://hwtprotocol.com
+- canonical info https://www.jimmont.com/hwt/
 - [spec](https://github.com/hwt-protocol/hwt-protocol/blob/main/SPEC.md) with [conventions](https://github.com/hwt-protocol/hwt-protocol/blob/main/CONVENTIONS.md) expands on the `authz` field authorization schemas and jurisdiction vocabulary
 - format `hwt.signature.key-id.expires.format.payload`
 ```
